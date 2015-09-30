@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 10
+#+DATE: 2015-09-10 22:47:17.152706
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB01n0002-011儀禮-卷第十一.
 <pb:KR1d0026_SBCK_011-1a>¶
 儀禮卷第十一¶
 䘮服第十一　子夏傳　鄭氏注¶
@@ -503,4 +507,3 @@
 (受者其章/旣著之)¶
 　儀禮卷第十一¶
 (經四千四百二十八字/注五千九百七十八字)¶
-

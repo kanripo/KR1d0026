@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 6
+#+DATE: 2015-09-10 22:47:16.982225
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0002-007儀禮-卷第七.
 <pb:KR1d0026_SBCK_007-1a>¶
 儀禮卷第七¶
 大射儀第七　儀禮　鄭氏注¶
@@ -694,4 +698,3 @@
 儀禮卷第七¶
 (經六千八百九十字/注一千三百八字)¶
 <pb:KR1d0026_SBCK_007-41b>¶
-

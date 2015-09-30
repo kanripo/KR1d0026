@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 7
+#+DATE: 2015-09-10 22:47:17.025685
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0002-008儀禮-卷第八.
 <pb:KR1d0026_SBCK_008-1a>¶
 儀禮卷第八¶
 聘禮第八　儀禮　鄭氏注¶
@@ -724,4 +728,3 @@
 (稯也古文/稯作緵)¶
 儀禮卷第八(經五千三百四/注一万九百六十一)¶
 <pb:KR1d0026_SBCK_008-41a>¶
-

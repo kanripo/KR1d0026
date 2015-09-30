@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 1
+#+DATE: 2015-09-10 22:47:16.776897
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB01n0002-002儀禮-卷第二.
 <pb:KR1d0026_SBCK_002-1a>¶
 儀禮卷第二¶
 士昬禮第二　儀禮　鄭氏注¶
@@ -300,4 +304,3 @@
 讓入醴以一獻之禮主婦薦奠酬無幣(及與/也無)¶
 (幣異於/賔客)壻出主人送再拜¶
 <pb:KR1d0026_SBCK_002-17b>¶
-

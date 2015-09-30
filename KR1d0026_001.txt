@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 0
+#+DATE: 2015-09-10 22:47:16.739892
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0002-001儀禮-卷第一.
 <pb:KR1d0026_SBCK_001-1a>¶
 儀禮卷第一¶
 士冠禮第一　儀禮　鄭氏注¶
@@ -239,4 +243,3 @@
 (不爲謚周制以士爲爵死猶不爲謚耳下大/夫也今記之時士死則謚之非也謚之由魯)¶
 (莊公/始也)¶
 儀禮卷第一(經一千八百九十八字/注三千六百二字)¶
-

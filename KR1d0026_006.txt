@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 5
+#+DATE: 2015-09-10 22:47:16.939918
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB01n0002-006儀禮-卷第六.
 <pb:KR1d0026_SBCK_006-1a>¶
 儀禮卷第六¶
 燕禮第六　儀禮　鄭氏注¶
@@ -362,4 +366,3 @@
 (而不用鍾磬之節也謂之房中者/后夫人之所諷誦以事其君子)¶
 儀禮卷第六¶
 (經三千二百二十三字/注四千六百二十字)¶
-

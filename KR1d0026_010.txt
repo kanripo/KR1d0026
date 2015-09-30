@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 9
+#+DATE: 2015-09-10 22:47:17.114419
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0002-010儀禮-卷第十.
 <pb:KR1d0026_SBCK_010-1a>¶
 儀禮卷第十¶
 覲禮第十　儀禮　鄭氏注¶
@@ -153,4 +157,3 @@
 (經八百四十四字/注二千六百三十一字)¶
 <pb:KR1d0026_SBCK_010-9b>¶
 <pb:KR1d0026_SBCK_010-9b>¶
-

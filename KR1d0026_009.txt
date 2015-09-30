@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 8
+#+DATE: 2015-09-10 22:47:17.078781
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0002-009儀禮-卷第九.
 <pb:KR1d0026_SBCK_009-1a>¶
 儀禮卷第九¶
 公食大夫禮第九　鄭氏注¶
@@ -210,4 +214,3 @@
 (於食庶羞宰夫又設酒漿/以之食庶羞可也以優賓)拜食與侑幣皆再¶
 拜稽首(嫌上大夫/不稽首)¶
 儀禮卷第九(經一千七百五十三字/注二千八百七字)¶
-

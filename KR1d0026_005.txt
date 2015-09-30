@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 4
+#+DATE: 2015-09-10 22:47:16.894188
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0002-005儀禮-卷第五.
 <pb:KR1d0026_SBCK_005-1a>¶
 儀禮卷第五¶
 鄕射禮第五　儀禮　鄭氏注¶
@@ -672,4 +676,3 @@
 (經三千六百四十五字/注六千九百一十五字)¶
 <pb:KR1d0026_SBCK_005-40a>¶
 <pb:KR1d0026_SBCK_005-41a>¶
-

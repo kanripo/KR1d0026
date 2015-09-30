@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 15
+#+DATE: 2015-09-10 22:50:14.496976
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB01n0002-016儀禮-卷第十六.
 <pb:KR1d0026_SBCK_016-1a>¶
 儀禮卷第十六¶
 少牢饋食禮第十六　儀禮　鄭氏注¶
@@ -303,4 +307,3 @@
 ¶
 儀禮卷第十六¶
 (經二千九百七十九字/注二千七百八十七字)¶
-

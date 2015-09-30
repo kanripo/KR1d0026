@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮
-#+DATE: 2015-09-23 09:37:39
-#+PROPERTY: JUAN 2
+#+DATE: 2015-09-10 22:47:16.820250
+#+PROPERTY: ID KR1d0026
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB01n0002-003儀禮-卷第三.
 <pb:KR1d0026_SBCK_003-1a>¶
 儀禮卷第三¶
 士相見禮第三　儀禮　鄭氏注¶
@@ -115,4 +119,3 @@
 (託古文/茅作苗)¶
 儀禮卷第三¶
 (經七百五十三字/注一千六百八十九字)¶
-
